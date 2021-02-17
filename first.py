@@ -24,3 +24,6 @@ print("Строка добавления новой ветки")
 
 def function(num1, num2):
     return num1 ** num2
+
+
+print("Тест новой функции...", function(2, 3))
