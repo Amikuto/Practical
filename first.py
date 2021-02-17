@@ -12,3 +12,9 @@ y = 50
 print(x + y)
 
 matrix = [[1, 2, 3], [4, 5, 6], [7, 8, 9]]
+
+# matrix = matrix
+
+matrix.pop(1)
+
+print(matrix)
