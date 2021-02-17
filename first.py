@@ -22,3 +22,5 @@ print(matrix)
 print("Строка добавления новой ветки")
 
 
+def function(num1, num2):
+    return num1 ** num2
